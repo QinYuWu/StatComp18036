@@ -1,0 +1,16 @@
+Package: StatComp18036
+Type: Package
+Title: Example functions for 'Statistical Computing' course
+Version: 1.0
+Date: 2019-01-10
+Author: QinYu Wu
+Maintainer: QinYu Wu <wu051555@mail.ustc.edu.cn>
+Description: Several R and Rcpp function are included in this package for illustration. 
+License: GPL (>= 2)
+Imports: knitr, rmarkdown, Ball, DAAG, MASS, RANN, boot, bootstrap, energy, foreach, lattice
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+URL: http://github.com/QinYuWu/StatComp18036
+BugReports: http://github.com/QinYuWu/StatComp18036/issues
+Encoding: UTF-8
+
